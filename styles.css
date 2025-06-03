@@ -51,7 +51,7 @@ html {
 .nav-links a:hover {
   color: #2563eb;
 }
-.manu-btn {
+.menu-btn {
   display: none;
   font-size: 1.5rem;
   cursor: pointer;
@@ -60,7 +60,7 @@ html {
   padding: 0.5rem;
 }
 @media (width <= 768px) {
-  .manu-btn {
+  .menu-btn {
     display: block;
   }
   .nav-links {
