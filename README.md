@@ -6,6 +6,10 @@ A professional portfolio website showcasing my frontend development projects and
 - [Live Website](https://portfolio-mine-website.netlify.app/)
 - [Github link](https://github.com/Hammadniazi/portfolio-website)
 
+## Report
+
+- [Report](https://drive.google.com/file/d/1EyZwYkvJKhMlYz4krzrXeAtOsguSX6Er/view?usp=sharing)
+
 ## Features
 
 - Responsive design that works on all devices
